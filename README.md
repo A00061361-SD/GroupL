@@ -37,8 +37,3 @@ Everyone must make at least 1 meaningful Git commit per week.
 Individual 3-minute video.
 Group presentation (10 minutes + Q&A).
 Deadline: Friday, 27 November at 5 PM.
-
-
-
-yo mama
-
