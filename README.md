@@ -21,7 +21,7 @@ Explain the development of social media from early platforms to modern applicati
 Explain the effects of social media on marketing, advertising, customer service, branding, and revenue. Include a relevant case study showing how a company used advertising, influencers, customer interaction, or platform analytics to reach its target audience.<br>
 3.	**Member 3, Sean: Societal Viewpoint - 750 words**<br>
 Evaluate the positive and negative effects of social media on communication, behaviour, culture, relationships, education, entertainment, and everyday life. Support the discussion with relevant statistics or research on topics such as online communication, mental health, screen time, cyberbullying, or misinformation.<br>
-4.	**Member 4, Imran: Ethical Reflection and Improvements - 650**<br>
+4.	**Member 4, Imran: Ethical Reflection and Improvements - 650 words**<br>
 Discuss privacy, data collection, harmful content, algorithms, targeted advertising, and online safety. Recommend practical improvements, such as stronger privacy controls, clearer policies, better content moderation, and improved digital literacy.<br>
 5.	**Member 5, Paul: Conclusion, References, and Final Editing - 500 words**<br>
 Summarise the main findings, organise and format the sources, check the report for errors, confirm the word count and structure, proofread the complete report, and coordinate the final presentation materials.
