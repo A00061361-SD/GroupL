@@ -15,7 +15,7 @@
 
 ## Work split
 
-1.	**Member 1, Karl: Introduction and Historical Development - 300,550 words**<br>
+1.	**Member 1, Karl: Introduction and Historical Development - 300-550 words**<br>
 Explain the development of social media from early platforms to modern applications, using Myspace, Facebook, Instagram, and TikTok as examples. Create a timeline highlighting their launches, major changes, key features, user groups, and influence on information sharing.<br>
 2.	**Member 2, Aoibhe: Business Viewpoint - 750 words**<br>
 Explain the effects of social media on marketing, advertising, customer service, branding, and revenue. Include a relevant case study showing how a company used advertising, influencers, customer interaction, or platform analytics to reach its target audience.<br>
