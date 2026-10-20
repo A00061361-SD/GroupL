@@ -8,6 +8,9 @@ Social media are online social networking sites that allow individuals, companie
 create and share content at any time and to spread and publish information such as medical studies, political issues and news seamlessly.
 There are many different social media platforms that exist today, such as Facebook, Instagram, Snapchat, Reddit, WhatsApp, X, and online blogs. 
 
+This group project gives a brief overview of Evolution of social media platforms,
+the development of search platforms, the transformation of streaming platforms, the rise of ecommerce, evolution of digital photography, and the development of instant messaging. 
+
 
 
 
