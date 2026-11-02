@@ -70,8 +70,29 @@ Societal viewpoint
 
 
 Ethical reflection and improvements
+-talk about privacy, its effects and how it is important to users
+
+-talk about data collection, ethical problems with storing user data and how it was been breached or mis used before.
+
+-talk about how it is to easy for people to access harmful content and lack of age verification.
+
+-talk about how algorithms and targeted advertisement effect users and how it could be a breach of privacy and a form of data collection that is being misused
+
+-bring up online safety or there lack of
+
+-research potential stronger way to provide better privacy controls.
+-research ways governments could implement policies for social media companies to improve privacy controls and be more strict on companies who abuse user data or sell user data.
+
+research digital literay
 
 
+Privacy is an important aspect of consumer technology as people do not want others seeing sensitive information like passwords ,emails or real government information like real names or surnames and conversations
+they have with others.Consumers today heavily base what applications they will use on the strength of the privacy protection that apps or websites offer. Consumers now are aware that their data is 
+being collected and question how their data will be used. There are laws about data protection in over 150 countries but most consumer still have concerns about privacy protection especially when data breaches happen.
+A big data breach happened in 2014 The Cambridge Analytica Scandal which happened through Facebook (Meta). Where 87 million people had there data stolen by bad actors, Cambridge Analytica filed for bankruptcy
+and Facebook(Meta) was fined $5billion in 2019 for privacy violations. However bad actors are not the only people who consumers are concerned with when it comes privacy protection, some companies have been known to misuse user data for 
+profit by selling it to add corporations without disclosing that the users data would be used in such a way. Meta is known to often breach the trust of their consumers by mishandling consumer data.used. In 2023 Meta was fined 
+€1.2 billion by EU regulators for mishandling the transfer of user data between europe and the united states.
 
 
 
