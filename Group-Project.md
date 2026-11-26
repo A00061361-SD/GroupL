@@ -1,4 +1,4 @@
-Consumer Technology Evolution – Social Media
+# Consumer Technology Evolution – Social Media
 
 ## Introduction
 
@@ -10,43 +10,29 @@ We will also be looking into the ethical challenges that social media faces ever
 
 ---
 
-## Historical development
-
-### SixDegrees (1997)
+## Historical Development
 
 Social Networking can be traced all the way back to 1997 with the launch of a website called “SixDegrees.com”. It was the first of its kind back when it was launched.
 It allowed anybody who had access to the internet to create a personal profile and list their friends (Boyd and Ellison, 2007). Although it was a very limited website, it paved the way for future social networking platforms.
-
-### Myspace (2003)
-
 Six years after the creation of “SixDegrees.com” another social network emerged called “Myspace”. Unlike any platform that came before, it offered much more in-depth customisation and freedom when it came to personalising your personal profile, 
 becoming incredibly popular among teenagers and musicians (Dhingra and Mudgal, 2019). 
-
-### Facebook (2004)
-
 Fast forward a year later, Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, Chris Hughes, and Andrew McCollum created and launched a social media platform called “Facebook”.
 The platform was originally launched to connect students studying at Harvard University, but because of its popularity among the students, they expanded it to other universities and eventually it was available worldwide by 2006 to anyone over the age of 13 (Dhingra and Mudgal, 2019).
 By 2008 it had completely overtaken Myspace in popularity and was the main social network used worldwide (Penni, 2015).
-
-### Instagram (2010)
-
 Not long after Facebook’s worldwide launch, a social media platform released in 2010 under the name “Instagram”. 
 Kevin Systrom and Mike Krieger, the creators, had a slightly different approach when it came to their social network. They focused heavily on visual content, through pictures and eventually short videos, rather than the friendships, written updates and personal profiles of Facebook.
 It was a huge success, and the platform was eventually bought out and acquired by Facebook in 2012 (Fuciu, 2019).
-
-### TikTok (2016-Present)
-
 Jumping ahead to 2018, Musical.ly and TikTok merged into a single platform. Not long after the merger, the platform blew up in popularity and was rapidly becoming one of the most popular platforms on the internet.
 In the first three months of 2020 alone, the platform received 315 million downloads (Bhandari and Bimo, 2022). TikTok’s focus was and still is short-form video content. The reason it stood out is mainly due to its incredibly in-depth personalised algorithm through its “for you” page, 
 which would display content tailored specifically for each individual user's interests (Bhandari and Bimo, 2022). 
 
 ---
 
-### Historical timeline
+### Historical Timeline
 
 | Year | Milestone | 
 |------|-----------|
-|1997S | sixDegrees.com launches |
+|1997 | SixDegrees.com launches |
 |2003 | Myspace launches |
 |2004 | Facebook launches |
 |2006 | Facebook opens worldwide |
@@ -59,7 +45,11 @@ which would display content tailored specifically for each individual user's int
 
 ---
 
-Sources: boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); Bhandari and Bimo (2022). 
+#### Sources 
+
+Boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); Bhandari and Bimo (2022). 
+
+---
 
 
 
