@@ -19,6 +19,7 @@ becoming incredibly popular among teenagers and musicians (Dhingra and Mudgal, 2
 Fast forward a year later, Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, Chris Hughes, and Andrew McCollum created and launched a social media platform called “Facebook”.
 The platform was originally launched to connect students studying at Harvard University, but because of its popularity among the students, they expanded it to other universities and eventually it was available worldwide by 2006 to anyone over the age of 13 (Dhingra and Mudgal, 2019).
 By 2008 it had completely overtaken Myspace in popularity and was the main social network used worldwide (Penni, 2015).
+
 Not long after Facebook’s worldwide launch, a social media platform released in 2010 under the name “Instagram”. 
 Kevin Systrom and Mike Krieger, the creators, had a slightly different approach when it came to their social network. They focused heavily on visual content, through pictures and eventually short videos, rather than the friendships, written updates and personal profiles of Facebook.
 It was a huge success, and the platform was eventually bought out and acquired by Facebook in 2012 (Fuciu, 2019).
