@@ -103,7 +103,46 @@ Boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); 
 
 ## Societal viewpoint
 
+### Notes
+750 words requirement
+~110 Words / Paragraph
+Evaluate the positive and negative effects of social media on communication, behaviour, culture, relationships, education, entertainment, and everyday life.
+Support the discussion with relevant statistics or research on topics such as online communication, mental health, screen time, cyberbullying, or misinformation.
 
+Paragraphs – Pos and Neg effects
+-	Communication
+-	Behaviour
+-	Culture
+-	Relationships
+-	Education
+-	Entertainment
+-	Everyday Life
+
+Supporting Research/Statistics Topics
+-	Online Communication
+-	Mental Health
+-	Screen Time
+-	Cyberbullying
+-	Misinformation
+
+### Communication
+Social media has had an undeniable impact on how people interact with each other every day. The standardisation of its use globally means that it is an easily available method for people to communicate quickly. All that is needed to message someone is their account name and an internet connection.
+
+Screen Time
+- Ease of access has reduced the frequency and quality of in-person communication.
+- Frequency: People are more comfortable inside.
+- Quality: People are distracted, even in company.
+
+Online Communication
+- Positives
+- People can easily interact with each other over long-distance.
+- e.g. Online Chat, Posts, Stories, etc.
+
+Cyberbullying
+- Contact from any person is possible, providing a means to cyberbullying
+- e.g. Harmful speech, Discrimination, Spam, etc.
+
+ 
 
 
 
