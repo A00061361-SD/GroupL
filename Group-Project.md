@@ -1,6 +1,6 @@
 Consumer Technology Evolution – Social Media
 
-Introduction
+## Introduction
 
 Over the past two decades, social media has become an incredibly important and relevant factor in everyday life. It has completely changed the way we communicate, share, and connect with our friends and family across the world. 
 Social networking sites began as online platforms that allowed anybody to create a personal profile of themselves and to communicate with their friends and explore their own and other users' profiles (Boyd and Ellison, 2007).
@@ -8,42 +8,56 @@ Over time, social media transformed into something much bigger than just profile
 It's pretty safe to say that social media has impacted so many different aspects of our current everyday life. Throughout our report, we will be exploring the evolution of social media platforms such as Myspace, Facebook, Instagram, and TikTok and investigating them from both a business and societal perspective.
 We will also be looking into the ethical challenges that social media faces every day and the potential improvements that can be made in the future. 
 
-Historical development
+---
+
+## Historical development
+
+### SixDegrees (1997)
 
 Social Networking can be traced all the way back to 1997 with the launch of a website called “SixDegrees.com”. It was the first of its kind back when it was launched.
 It allowed anybody who had access to the internet to create a personal profile and list their friends (Boyd and Ellison, 2007). Although it was a very limited website, it paved the way for future social networking platforms.
+
+### Myspace (2003)
+
 Six years after the creation of “SixDegrees.com” another social network emerged called “Myspace”. Unlike any platform that came before, it offered much more in-depth customisation and freedom when it came to personalising your personal profile, 
-becoming incredibly popular among teenagers and musicians (Dhingra and Mudgal, 2019). Fast forward a year later, Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, Chris Hughes, and Andrew McCollum created and launched a social media platform called “Facebook”.
+becoming incredibly popular among teenagers and musicians (Dhingra and Mudgal, 2019). 
+
+### Facebook (2004)
+
+Fast forward a year later, Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, Chris Hughes, and Andrew McCollum created and launched a social media platform called “Facebook”.
 The platform was originally launched to connect students studying at Harvard University, but because of its popularity among the students, they expanded it to other universities and eventually it was available worldwide by 2006 to anyone over the age of 13 (Dhingra and Mudgal, 2019).
-By 2008 it had completely overtaken Myspace in popularity and was the main social network used worldwide (Penni, 2015). Not long after Facebook’s worldwide launch, a social media platform released in 2010 under the name “Instagram”. 
+By 2008 it had completely overtaken Myspace in popularity and was the main social network used worldwide (Penni, 2015).
+
+### Instagram (2010)
+
+Not long after Facebook’s worldwide launch, a social media platform released in 2010 under the name “Instagram”. 
 Kevin Systrom and Mike Krieger, the creators, had a slightly different approach when it came to their social network. They focused heavily on visual content, through pictures and eventually short videos, rather than the friendships, written updates and personal profiles of Facebook.
-It was a huge success, and the platform was eventually bought out and acquired by Facebook in 2012 (Fuciu, 2019). Jumping ahead to 2018, Musical.ly and TikTok merged into a single platform. Not long after the merger, the platform blew up in popularity and was rapidly becoming one of the most popular platforms on the internet.
+It was a huge success, and the platform was eventually bought out and acquired by Facebook in 2012 (Fuciu, 2019).
+
+### TikTok (2016-Present)
+
+Jumping ahead to 2018, Musical.ly and TikTok merged into a single platform. Not long after the merger, the platform blew up in popularity and was rapidly becoming one of the most popular platforms on the internet.
 In the first three months of 2020 alone, the platform received 315 million downloads (Bhandari and Bimo, 2022). TikTok’s focus was and still is short-form video content. The reason it stood out is mainly due to its incredibly in-depth personalised algorithm through its “for you” page, 
 which would display content tailored specifically for each individual user's interests (Bhandari and Bimo, 2022). 
 
-Historical timeline
+---
 
-Year	Milestone 
+### Historical timeline
 
-1997    SixDegrees.com launches 
+| Year | Milestone | 
+|------|-----------|
+|1997S | sixDegrees.com launches |
+|2003 | Myspace launches |
+|2004 | Facebook launches |
+|2006 | Facebook opens worldwide |
+|2008 | Facebook overtakes Myspace in popularity| 
+|2010 | Instagram launches |
+|2012 | Facebook acquires Instagram |
+|2016 | Douyin(TikTok's Chinese predecessor) launches in China |
+|2018 | TikTok merges with Musical.ly |
+|2020 | TikTok experiences explosive growth |
 
-2003    Myspace launches 
-
-2004    Facebook launches 
-
-2006    Facebook opens worldwide 
-
-2008    Facebook overtakes Myspace in popularity 
-
-2010    Instagram launches 
-
-2012    Facebook acquires Instagram 
-
-2016    Douyin(TikTok's Chinese predecessor) launches in China 
-
-2018    TikTok merges with Musical.ly 
-
-2020    TikTok experiences explosive growth 
+---
 
 Sources: boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); Bhandari and Bimo (2022). 
 
@@ -57,7 +71,7 @@ Sources: boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu
 
 
 
-Business viewpoint
+## Business viewpoint
 
 
 
@@ -78,7 +92,7 @@ Business viewpoint
 
 
 
-Business viewpoint
+## Business viewpoint
 
 
 
@@ -98,7 +112,7 @@ Business viewpoint
 
 
 
-Societal viewpoint
+## Societal viewpoint
 
 
 
@@ -118,7 +132,7 @@ Societal viewpoint
 
 
 
-Ethical reflection and improvements
+## Ethical reflection and improvements
 -talk about privacy, its effects and how it is important to users
 
 -talk about data collection, ethical problems with storing user data and how it was been breached or mis used before.
@@ -188,7 +202,7 @@ However this could have many problems like if there a data leak or a hack millio
 
 
 
-Conclusion and final editing
+## Conclusion and final editing
 
 
 
@@ -205,26 +219,26 @@ Conclusion and final editing
 
 
 
-References: 
+## References: 
 
 Karl:
 
 Bhandari, A. and Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and the Future of Self-Making on Social Media. 
 
-https://journals.sagepub.com/doi/full/10.1177/20563051221086241 
+[Access study] (https://journals.sagepub.com/doi/full/10.1177/20563051221086241) 
 
 Boyd, d.m. and Ellison, N.B. (2007). Social Network Sites: Definition, History, and Scholarship.  
 
-https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.2007.00393.x 
+[Access study] (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.2007.00393.x) 
 
 Dhingra, M. and Mudgal, R.K. (2019). Historical Evolution of Social Media: An Overview.  
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395665 
+[Access study] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395665)
 
 Fuciu, M. (2019). The Rise of Instagram – Evolution, Statistics, Advantages and Disatvantages.  
 
-https://ideas.repec.org/a/blg/reveco/v71y2019i4p53-63.html 
+[Access study] (https://ideas.repec.org/a/blg/reveco/v71y2019i4p53-63.html)
 
 Penni, J. (2015). The Online Evolution of Social Media: An Extensive Exploration of a Technological Phenomenomen and its Extended Use in Various Activities.  
 
-https://eprints.hud.ac.uk/id/eprint/28332/ 
+[Access study] (https://eprints.hud.ac.uk/id/eprint/28332/)
