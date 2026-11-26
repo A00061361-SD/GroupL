@@ -225,20 +225,20 @@ Karl:
 
 Bhandari, A. and Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and the Future of Self-Making on Social Media. 
 
-[Access study] (https://journals.sagepub.com/doi/full/10.1177/20563051221086241) 
+[Access study](https://journals.sagepub.com/doi/full/10.1177/20563051221086241) 
 
 Boyd, d.m. and Ellison, N.B. (2007). Social Network Sites: Definition, History, and Scholarship.  
 
-[Access study] (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.2007.00393.x) 
+[Access study](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.2007.00393.x) 
 
 Dhingra, M. and Mudgal, R.K. (2019). Historical Evolution of Social Media: An Overview.  
 
-[Access study] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395665)
+[Access study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395665)
 
 Fuciu, M. (2019). The Rise of Instagram – Evolution, Statistics, Advantages and Disatvantages.  
 
-[Access study] (https://ideas.repec.org/a/blg/reveco/v71y2019i4p53-63.html)
+[Access study](https://ideas.repec.org/a/blg/reveco/v71y2019i4p53-63.html)
 
 Penni, J. (2015). The Online Evolution of Social Media: An Extensive Exploration of a Technological Phenomenomen and its Extended Use in Various Activities.  
 
-[Access study] (https://eprints.hud.ac.uk/id/eprint/28332/)
+[Access study](https://eprints.hud.ac.uk/id/eprint/28332/)
