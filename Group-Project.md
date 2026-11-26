@@ -1,7 +1,5 @@
 # Consumer Technology Evolution – Social Media
 
----
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,8 +9,6 @@
 - [Ethical Reflection and Improvements](#ethical-reflection-and-improvements)
 - [Conclusion](#conclusion-and-final-editing)
 - [References](#references)
-
-
 
 ## Introduction
 
