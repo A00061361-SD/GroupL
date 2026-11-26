@@ -1,5 +1,19 @@
 # Consumer Technology Evolution – Social Media
 
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Historical Development](#historical-development)
+- [Business Viewpoint](#business-viewpoint)
+- [Societal Viewpoint](#societal-viewpoint)
+- [Ethical Reflection and Improvements](#ethical-reflection-and-improvements)
+- [Conclusion](#conclusion-and-final-editing)
+- [References](#references)
+
+
+
 ## Introduction
 
 Over the past two decades, social media has become an incredibly important and relevant factor in everyday life. It has completely changed the way we communicate, share, and connect with our friends and family across the world. 
@@ -72,18 +86,6 @@ Boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-## Business viewpoint
 
 
 
