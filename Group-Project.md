@@ -73,31 +73,23 @@ Boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); 
 
 
 ## Business viewpoint
+Social media plays an important role across different aspects of modern businesses nowadays, with brands using platforms for various things such as marketing, advertising, and customer service. This is due to the cost-effective access to large audiences that can be reached with targeted content. Social media is now being used to increase sales by building relationships with customers through actively monitoring and responding to customer feedback, maintaining a positive brand image. Businesses are becoming increasingly aware that sharing compelling content can encourage users to click through and explore a business’ offering which can lead to increased website visits, conversions, and increase revenue. 
 
+The increasing use of social media has created data in the form of likes, comments, shares, and clicks on platforms that businesses analyze to obtain an insight into customer behavior and preferences. This provides a deeper understanding of target audiences and can be used to tailor marketing efforts and create more engagement. More businesses are viewing influencers as an asset and are investing their time in partnerships to reach a wider audience, with the hope of bringing in new customers and creating more interest in their brand overall. While partnering with a widely known influencer would seem more beneficial, many businesses are focusing their energy on partnering with influencers with a following of people that would be interested in what they have to offer. For example, Joshi (2024) states that his New York City-based company would benefit more from someone with 100,000 followers living in New York City rather than someone with 10 million followers spread across the globe. Forbes (2024). The Power of Social Media in Modern Marketing. Available at: https://www.forbes.com/councils/forbesbusinesscouncil/2024/10/09/the-power-of-social-media-in-modern-marketing/ 
 
+ 
 
+Prior to social media, businesses promoted themselves through television, radio, newspapers, billboards, and magazines. Without the ability to reach large audiences in a small amount of time, campaigns needed to be carefully planned because of the opportunity to reach audiences being limited. This pushed brands to focus on advertisements leaving a strong and lasting impression using memorable slogans, emotional storytelling, and recognizable identity. Before social media trends became a tool to create brand growth, one of the strongest tools was word-of-mouth. If the product was good, customers would share their experience with friends, family, and communities. 
 
+The era before social media prompted brands to work harder to earn attention, rather than chasing it. This created stronger customer loyalty because businesses were focusing on a customer base that had already been established and brought in income. Older brands had developed an understanding that product quality was the foundation of long-term success, as their survival depended on customer satisfaction and reputation. Hamza (2026). Without social media to capture attention, businesses had to put greater effort into the quality of products, as well as their advertising strategies, and maintain a positive relationship with customers. Think Marketing Magazine (2026). Marketing Before Social Media: Why It Worked. Available at: 
 
+https://thinkmarketingmagazine.com/marketing-before-social-media-why-it-worked/ 
 
+ 
 
+The arrival of marketing through social media allowed businesses to grow rapidly, but how did it start? The earliest examples of these dates back to the mid-2000s, with the arrival of platforms such as MySpace and Facebook. Businesses began creating pages to shar updates and connect with their customers. The early strategies relied on likes, comments and shares to build brand visibility. Content was designed to engage users without paid promotion through informative or entertaining advertisements. As the number of people using these platforms grew, they became a key part of digital marketing plans. The development of paid advertising features allowed businesses to expand their reach and target users with greater accuracy. For example, the launch of Facebook Ads in 2007 allowed businesses to run targeted campaigns using user demographics, interests, and behavior. Dejnak (2025). As competition grew, paid promotions became essential for staying visible and reaching larger audiences. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Over the past twenty years, social media marketing has changed drastically, evolving from basic content sharing to a strategy rich discipline that incorporates advanced technology, diverse engagement methods and influencers to create income for a business. Today, social media marketing has advanced significantly, including dynamic ads, A/B testing, and predictive analytics. These tools help brands personalize content and improve performance in real time. Platforms offer interactive features, such as live streaming, polls, and AR filters, that increase user engagement and time spent on content. An example of this advancement can be seen in Sephora’s approach to marketing. The company uses AR for virtual try-ons, allowing users to test makeup through their phones. This blend of e-commerce and interactivity shows how social media has become a complex system combining creativity, data, and real-time engagement. Landingi (2025). Social Media Marketing History and Its Revolution Over Decades. Available at: https://landingi.com/social-media-marketing/history/ 
 
 
 
