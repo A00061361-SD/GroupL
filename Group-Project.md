@@ -179,14 +179,14 @@ Targeted algorithms and advertisements:
 
 Another big problem consumers face with most of these apps like Instagram, tiktok etc. Is the data collection for algorithm or advertisement purposes. These apps collect data to push targeted content onto consumers.
 This has big problems as most consumers have lost their sense of privacy as these companies collect your data most of the time without consent. You see this on many websites that use "cookies" there
-is no option to opt out of these cookies and only provide the options of "limit" or "only neccessary". This is something that needs to be adressed by law makers as this data that is being collected with or without
+is no ovbious option to opt out of these cookies and only provide the options of "limit" or "only neccessary". This is something that needs to be adressed by law makers as this data that is being collected with or without
 conset and is often breached, misused or mishandling.
 
 Online safety:
 
 There is a serious lack of online safety provided to consumers. Prolems like online exploitation, insufficent regulations, harmful algorithms etc. Effect people in negative ways but the worst effect of this is that 
 it effects children. Children who have access to the internet and apps like Instagram, TikTok or games like roblox are often subjected to online exploitation by predators. However this doesn't only effect children,
-the elderly are also more at risk of being effected by the lack of online safety or transparency from companies. For example elderly people are more likely to fall for phishing links sent to their emails or not something
+the elderly are also more at risk of being effected by the lack of online safety or transparency from companies. For example elderly people are more likely to fall for phishing links sent to their emails or something
 more simple like not being able to read small text on a website and agreeing to bad terms. This can be addressed by improving digital literacy. For example we could teach students about online safety and potentially how to 
 identify risks and exploiters or strengthening cyber security and improving privacy laws to prevent companies from exploiting elderly people.
 
