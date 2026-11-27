@@ -161,45 +161,30 @@ Cyberbullying
 
 
 ## Ethical reflection and improvements
--talk about privacy, its effects and how it is important to users
-
--talk about data collection, ethical problems with storing user data and how it was been breached or mis used before.
-
--talk about how it is to easy for people to access harmful content and lack of age verification.
-
--talk about how algorithms and targeted advertisement effect users and how it could be a breach of privacy and a form of data collection that is being misused
-
--bring up online safety or there lack of
-
--research potential stronger way to provide better privacy controls.
--research ways governments could implement policies for social media companies to improve privacy controls and be more strict on companies who abuse user data or sell user data.
-
-research digital literacy
-
 Privacy:
 
 Privacy is an important aspect of consumer technology as people do not want others seeing sensitive information like passwords ,emails or real government information like real names or surnames and conversations
-they have with others.Consumers today heavily base what applications they will use on the strength of the privacy protection that apps or websites offer. Consumers now are aware that their data is 
+they have with others. Consumers today heavily base what applications they will use on the strength of the privacy protection that apps or websites offer. Consumers now are aware that their data is 
 being collected and question how their data will be used. 
 
 Problems with data collection:
 
 There are laws about data protection in over 150 countries but most consumers still have concerns about privacy protection especially when data breaches happen.
-A big data breach happened in 2014 The Cambridge Analytica Scandal which happened through Facebook (Meta). Where 87 million people had there data stolen by bad actors, Cambridge Analytica filed for bankruptcy
+A big data breach happened in 2014. The Cambridge Analytica Scandal which happened through Facebook (Meta). Where 87 million people had there data stolen by bad actors, Cambridge Analytica filed for bankruptcy
 and Facebook(Meta) was fined $5billion in 2019 for privacy violations. However bad actors are not the only people who consumers are concerned with when it comes privacy protection, some companies have been known to misuse user data for 
-profit by selling it to add corporations without disclosing that the users data would be used in such a way. Meta is known to often breach the trust of their consumers by mishandling consumer data.used. In 2023 Meta was fined 
+profit by selling it to add corporations without disclosing that the users data would be used in such a way. Meta is known to often breach the trust of their consumers by mishandling consumer data. In 2023 Meta was fined 
 €1.2 billion by EU regulators for mishandling the transfer of user data between europe and the united states, Meta failed to adress surveilance risks identified in the court of justice of the european union.
 
 Targeted algorithms and advertisements:
 
 Another big problem consumers face with most of these apps like Instagram, tiktok etc. Is the data collection for algorithm or advertisement purposes. These apps collect data to push targeted content onto consumers.
-This already has big problems as most consumers have lost their sense of privacy as these companies collect your data most of the time without consent. You see this on many websites that use "cookies" there
-is no option to opt out of these cookies and only provide the options of "limit" or "only neccessary". This is something that need to be adressed by law makers as this data that is being collected with or without
-conset is often breached, misused or mishandling.
+This has big problems as most consumers have lost their sense of privacy as these companies collect your data most of the time without consent. You see this on many websites that use "cookies" there
+is no option to opt out of these cookies and only provide the options of "limit" or "only neccessary". This is something that needs to be adressed by law makers as this data that is being collected with or without
+conset and is often breached, misused or mishandling.
 
 Online safety:
 
-There is a serious lack of online safety provided to consumers. Prolems like online exploitation, insufficenty regulations, harmful algorithms etc. Effect people in negative ways but the worst effect of this is that 
+There is a serious lack of online safety provided to consumers. Prolems like online exploitation, insufficent regulations, harmful algorithms etc. Effect people in negative ways but the worst effect of this is that 
 it effects children. Children who have access to the internet and apps like Instagram, TikTok or games like roblox are often subjected to online exploitation by predators. However this doesn't only effect children,
 the elderly are also more at risk of being effected by the lack of online safety or transparency from companies. For example elderly people are more likely to fall for phishing links sent to their emails or not something
 more simple like not being able to read small text on a website and agreeing to bad terms. This can be addressed by improving digital literacy. For example we could teach students about online safety and potentially how to 
@@ -209,7 +194,7 @@ Government improvements:
 
 Governments need to implement policies that will limit companies from collecting too much unnecessary data and will actually hold these companies accountable for protecting their consumers data and hand out appropriate punishments for failure to
 comply with these policies. Companies should also be forced to be 100% transparent with how user data will be used and what exactly is being collected. As mentioned before governments could introduce digital literacy courses for all people to
-maybe help people identify risks. Another area that that has not been mentioned yet is account creation. governments could introduce stronger age verification like document submissions to verify age and identity ro prevent scammers or bad actors.
+maybe help people identify risks. Another area that that has not been mentioned yet is account creation. governments could introduce stronger age verification like document submissions to verify age and identity to prevent scammers or bad actors.
 However this could have many problems like if there a data leak or a hack millions of people could have their identities stolen but not only that governments could use this data in harmful ways.
 
 
@@ -270,3 +255,32 @@ Fuciu, M. (2019). The Rise of Instagram – Evolution, Statistics, Advantages an
 Penni, J. (2015). The Online Evolution of Social Media: An Extensive Exploration of a Technological Phenomenomen and its Extended Use in Various Activities.  
 
 [Access study](https://eprints.hud.ac.uk/id/eprint/28332/)
+
+Imran
+
+Hartley, A. (2026). The growing privacy expectations in consumer tech.
+
+[Access study](https://www.spreckley.co.uk/insights/the-growing-privacy-expectations-in-consumer-tech/)
+
+Harbath, K. (2024). History of the Cambridge Analytica Controversy
+
+[Access study](https://bipartisanpolicy.org/article/cambridge-analytica-controversy/)
+
+Chazal, E.de. (2026). 20 Biggest GDPR Fines of All Time
+
+[Access study](https://www.skillcast.com/blog/20-biggest-gdpr-fines)
+
+Null. E and Chao, B. (2019). The Behavioral Advertising Business Model Can Harm Individuals
+
+[Access study](https://www.newamerica.org/insights/paying-our-privacy-what-online-business-models-should-be-limits/the-behavioral-advertising-business-model-can-harm-individuals/)
+
+O'Donavan, B. (2025). Lack of online protections for children creates space for predators
+
+[Access study](https://www.rte.ie/news/ireland/2025/0409/1506547-online-protections-children/)
+
+eskills Founddation. (2026). A bite-sized overview of digital literacy and education: strategies to empower the future
+
+[Access study](https://digital-skills-jobs.europa.eu/en/latest/news/bite-sized-overview-digital-literacy-and-education-strategies-empower-future)
+
+Lubin, N. Mayberry, K. Revel, M and Thorburn, L. (2024). Underexplored Ways to Regulate Social Media
+[Access study](https://www.techpolicy.press/underexplored-ways-to-regulate-social-media/)
