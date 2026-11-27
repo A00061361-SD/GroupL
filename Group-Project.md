@@ -62,16 +62,6 @@ Boyd and Ellison (2007); Dhingra and Mudgal (2019); Penni (2015); Fuciu (2019); 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 ## Business viewpoint
 Social media plays an important role across different aspects of modern businesses nowadays, with brands using platforms for various things such as marketing, advertising, and customer service. This is due to the cost-effective access to large audiences that can be reached with targeted content. Social media is now being used to increase sales by building relationships with customers through actively monitoring and responding to customer feedback, maintaining a positive brand image. Businesses are becoming increasingly aware that sharing compelling content can encourage users to click through and explore a business’ offering which can lead to increased website visits, conversions, and increase revenue. 
 
@@ -153,6 +143,7 @@ Cyberbullying
 
 
 ## Ethical reflection and improvements
+---
 Privacy:
 
 Privacy is an important aspect of consumer technology as people do not want others seeing sensitive information like passwords ,emails or real government information like real names or surnames and conversations
